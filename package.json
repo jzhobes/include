@@ -1,0 +1,28 @@
+{
+  "name": "@mountaingapsolutions/include",
+  "version": "1.0.0",
+  "description": "A simple, lightweight utility library to lazy load a JavaScript or CSS dependency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzhobes/include.git"
+  },
+  "keywords": [
+    "javascript",
+    "asynchronous",
+    "lazy-load",
+    "include"
+  ],
+  "author": "John Ho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jzhobes/include/issues"
+  },
+  "homepage": "https://github.com/jzhobes/include#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
