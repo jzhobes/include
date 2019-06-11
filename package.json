@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/jzhobes/include/issues"
   },
-  "homepage": "https://github.com/jzhobes/include#readme",
+  "homepage": "https://github.com/jzhobes/include",
   "devDependencies": {
     "jest": "^24.8.0"
   }
