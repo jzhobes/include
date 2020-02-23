@@ -1,6 +1,6 @@
 {
   "name": "@mountaingapsolutions/include",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple, lightweight utility library to lazy load a JavaScript or CSS dependency.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/jzhobes/include",
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^25.1.0"
   }
 }
