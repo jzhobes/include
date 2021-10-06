@@ -3,7 +3,6 @@
 A simple, lightweight utility library to lazy load a JavaScript or CSS dependency.
 
 ### Usage
-Performs a deep copy of the provided input. Supported data types at the moment are: Object, Array, Date, string, number, boolean, and function.
 ```javascript
 const include = require('@mountaingapsolutions/include');
 
